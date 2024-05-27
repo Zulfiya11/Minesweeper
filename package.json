@@ -1,0 +1,17 @@
+{
+    "name": "minesweeper",
+    "version": "1.0.0",
+    "description": "A simple Minesweeper game application",
+    "main": "src/app.ts",
+    "scripts": {
+      "build": "tsc",
+      "start": "parcel src/index.html"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "typescript": "^4.0.0",
+      "parcel": "^2.0.0"
+    }
+  }
+  
